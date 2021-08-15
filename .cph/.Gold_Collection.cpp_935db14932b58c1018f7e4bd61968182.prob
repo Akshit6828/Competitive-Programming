@@ -1,1 +1,0 @@
-{"name":"Local: Gold_Collection","url":"d:\\VS CodeLabs\\Competitive Programming\\Codechef\\Gold_Collection.cpp","tests":[{"id":1624043943979,"input":"1\n4\n10 2 5 50\n2\n1 3\n2 4","output":"17\n57"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS CodeLabs\\Competitive Programming\\Codechef\\Gold_Collection.cpp","group":"local","local":true}
