@@ -10,8 +10,8 @@ public class Olympics_Ranking{
     int f =s.nextInt();
       
       if(a+b+c>f+d+e)
-        System.out.println("1);
+        System.out.println("1");
         else
-        System.out.println("2);
+        System.out.println("2");
      }
 }
