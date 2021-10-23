@@ -9,7 +9,7 @@ using namespace std;
 
     #ifndef ONLINE_JUDGE
     freopen("a.txt","r",stdin);
-    freopen("out1.txt","w",stdout);
+    freopen("output1.txt","w",stdout);
     #endif
    int sim,inter,street,cars,points;
     cin>>sim>>inter>>street>>cars>>points;
