@@ -2,6 +2,11 @@
 #include<iostream>
 using namespace std;
 
+/*
+Edge case:
+1) AAAAAA (only 1 type of seq)
+2) ATATAAAA (last seq is the max)
+*/
 void solve(){
     string s;
     cin>>s;
