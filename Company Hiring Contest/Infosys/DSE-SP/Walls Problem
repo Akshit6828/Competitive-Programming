@@ -1,0 +1,12 @@
+Write the most optimal code in C++ for the following problem as mentioned below:
+In a large factory, there are N walls that the owner painted with different types of paints. 
+Due to the humidity and the difference in the type of paint, each wall i will take X[i], minutes to dry.
+
+However, there is a magic machine that we can set to work for a certain integer number of minutes and put it in front of a certain wall to speed up the drying process.
+
+It is given the machine cannot be moved during its work or it will break.
+Also, for every minute of work of this machine, it decreases the time remaining to dry the wall in front of it by K minutes. 
+It is also given that If the remaining drying time for a wall is less than K, it will become 0 and dry up without any problems.
+
+Your task is to find the minimum number of minutes in which all the walls of the factory can be dried.
+Note: We have one machine, but after finishing a wall we can move this machine to another wall.
